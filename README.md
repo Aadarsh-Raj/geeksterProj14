@@ -1,6 +1,6 @@
 # geeksterProj14
 
-Hosted Link -> https://aadarsh-raj.github.io/geeksterProj14/htmlpart/index.html
+Hosted Link -> https://aadarsh-raj.github.io/geeksterProj14/htmlfile/index.html
 
 ### Html part
 
